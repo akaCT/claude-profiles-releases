@@ -6,6 +6,15 @@
     <description>Updates for Claude Profiles</description>
     <language>en</language>
     <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Wed, 14 Oct 2026 02:59:01 +0000</pubDate>
+      <sparkle:version>301</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Click a profile's name to focus it or launch it, no submenu needed</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.3.1/Claude-Profiles.zip" sparkle:edSignature="+Bbaipf+6QrOHM+ANJ1WDVRFrVGM6ZEL2gAQ3qyrixwmSC73Nkj7tR7C8ECYxbh8H1yE4XwAEPm4FoKH3HbMBQ==" length="3255573" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.3.0</title>
       <pubDate>Tue, 29 Sep 2026 20:47:18 +0000</pubDate>
       <sparkle:version>300</sparkle:version>
@@ -14,6 +23,5 @@
       <description><![CDATA[<ul><li>Shows when each account's weekly limit resets, taken from Claude Code's own limit notice</li><li>A narrower, calmer menu: just your accounts and their 5-hour and weekly bars</li><li>The reset time on hover no longer covers the account's submenu</li></ul>]]></description>
       <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.3.0/Claude-Profiles.zip" sparkle:edSignature="TZaW0SQeWvdcUMSUAFD0b1iml0fjjzCmVB5KcylH63sNP2RMORqy4gbBBpJ0E7GzressnYLO186Bqmwgza8RCw==" length="3252973" type="application/octet-stream" />
     </item>
-
   </channel>
 </rss>
