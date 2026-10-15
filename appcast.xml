@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Claude Profiles</title>
+    <title>SupaConductor</title>
     <link>https://raw.githubusercontent.com/akaCT/claude-profiles-releases/main/appcast.xml</link>
-    <description>Updates for Claude Profiles</description>
+    <description>Updates for SupaConductor</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.0</title>
+      <pubDate>Thu, 15 Oct 2026 20:06:57 +0000</pubDate>
+      <sparkle:version>400</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Claude Profiles is now SupaConductor. The menu bar shows SC.</li><li>Usage readings show their age: after 30 minutes the bar fades and says when it was read, after 6 hours it turns hollow.</li><li>Weekly reset times appear only when Claude Code reported them or your history confirms them, so they no longer show the wrong day.</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.4.0/SupaConductor.zip" sparkle:edSignature="xfz2fnjmsn/QZ7m5CkJlAkFvpsb2f54SeF3jVvbo+gAeWxcfYlOAg9/LCerZh3PpypRNSCEt+RLABInEb8dNBQ==" length="3349806" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.3.1</title>
       <pubDate>Wed, 14 Oct 2026 02:59:01 +0000</pubDate>
       <sparkle:version>301</sparkle:version>
