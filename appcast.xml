@@ -6,6 +6,15 @@
     <description>Updates for SupaConductor</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.1</title>
+      <pubDate>Sun, 18 Oct 2026 04:52:37 +0000</pubDate>
+      <sparkle:version>401</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>When Claude stops updating usage, the menu now says so and how to resume it.</li><li>Uses less memory while reading usage on Macs with a lot of Claude Code history.</li><li>Doctor shows the same weekly reset time as the menu.</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.4.1/SupaConductor.zip" sparkle:edSignature="gAyhaSU1CT+zDephstJubGY+Ro593XsUMljmNHTEswp2nPmXk3TXG3w7KqnS6x9PH6m0RU85sxolnPGbqDu8Dg==" length="3397919" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.4.0</title>
       <pubDate>Thu, 15 Oct 2026 20:06:57 +0000</pubDate>
       <sparkle:version>400</sparkle:version>
