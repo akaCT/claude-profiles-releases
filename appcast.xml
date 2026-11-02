@@ -6,6 +6,15 @@
     <description>Updates for SupaConductor</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.2</title>
+      <pubDate>Mon, 02 Nov 2026 04:47:40 +0000</pubDate>
+      <sparkle:version>402</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Accounts with no 5-hour limit say "No limit" once Claude next reports their usage.</li><li>If none of your accounts has a 5-hour limit, that column goes away.</li><li>Verified Ultra accounts no longer have this limit. Other accounts keep theirs.</li><li>Plan names match Anthropic's new ones: Max 20x is now Ultra and Max 5x is now Max.</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.4.2/SupaConductor.zip" sparkle:edSignature="PYgkW/qWJOt8nPXu5N+vXPHr4fOkwvUmCi9/iidUDfM5xQHoZiH7UFMJ6HCKRDVu7KqgDEWEZ2zJCq3a/8b1Aw==" length="3420198" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.4.1</title>
       <pubDate>Sun, 18 Oct 2026 04:52:37 +0000</pubDate>
       <sparkle:version>401</sparkle:version>

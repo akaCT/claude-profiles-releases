@@ -1,6 +1,6 @@
 # SupaConductor
 
-Run several Claude accounts at once on your Mac, each in its own window, with each account's 5-hour and weekly usage in the menu bar.
+Run several Claude accounts at once on your Mac, each in its own window, with each account's usage limits in the menu bar.
 
 SupaConductor was called Claude Profiles before version 0.4.0. If you already have Claude Profiles, it updates itself: do not install it again.
 
