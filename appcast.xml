@@ -6,6 +6,15 @@
     <description>Updates for SupaConductor</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.4</title>
+      <pubDate>Tue, 03 Nov 2026 20:36:43 +0000</pubDate>
+      <sparkle:version>404</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The menu now shows only the week: each account's row has the weekly bar, the percent used and the day the week resets. The 5-hour number moved into each account's submenu, and the alert at 90 percent of a 5-hour limit still works.</li><li>Right after an account's week resets, its bar is empty and reads "new" until the account is used again.</li><li>A reset counts only when Claude Code reported it in the past week or the account's own readings confirm it. Otherwise the row keeps its last number and shows "?" for the reset day until a reset is confirmed. "Keep usage fresh automatically" gives the app the readings it needs to confirm a reset sooner.</li><li>After an update, 1 "Updated to 0.4.4" line sits at the top of the menu until you click it, and the "What's New" item under Updates is gone.</li><li>VoiceOver reads the same 5-hour status as the submenu.</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.4.4/SupaConductor.zip" sparkle:edSignature="1UHY6oMPs183YkbsR+ROWDHJPe9d5qLU/cyyOCpBACY83q7V5Q3BfZKSGj8wK1cOgS6qXVr4X4Y1wIYQrfNMDg==" length="3898764" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.4.3</title>
       <pubDate>Tue, 03 Nov 2026 03:26:38 +0000</pubDate>
       <sparkle:version>403</sparkle:version>
