@@ -6,6 +6,15 @@
     <description>Updates for SupaConductor</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.3</title>
+      <pubDate>Tue, 03 Nov 2026 03:26:38 +0000</pubDate>
+      <sparkle:version>403</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Each account's row is now 1 weekly bar with a small mark for even pace, the percent used and the day the week resets.</li><li>The 5-hour column shows only when an account in the menu still has that limit.</li><li>A reading older than 6 hours shows with a plus, such as "4%+", because the real number is usually higher. A week that has ended shows "?" instead of 0.</li><li>When a running account stops updating, a "Refresh usage" row appears at the top of the menu. Each account's submenu also has "Claude's usage card..." to open that account's own usage card.</li><li>New quiet alerts: when a running account stops updating, when an account is on pace to reach its weekly limit early, and at 90 percent of a 5-hour limit.</li><li>"Keep usage fresh automatically" can refresh an account that stopped updating while your Mac is idle. It is off unless you turn it on.</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.4.3/SupaConductor.zip" sparkle:edSignature="UClCfHOrgTm6pHMY2b6gYrqypJN9yzeMGCl5wEpOcvyfKAOrblBGRPc0kY7deS71Pcy4W0mlrlu5Um0J+8+nAQ==" length="3892576" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.4.2</title>
       <pubDate>Mon, 02 Nov 2026 04:47:40 +0000</pubDate>
       <sparkle:version>402</sparkle:version>
