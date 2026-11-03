@@ -6,6 +6,15 @@
     <description>Updates for SupaConductor</description>
     <language>en</language>
     <item>
+      <title>Version 0.4.5</title>
+      <pubDate>Tue, 03 Nov 2026 22:11:19 +0000</pubDate>
+      <sparkle:version>405</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A reading older than 6 hours now shows its age after the number, such as "22% 18h", instead of a plus, so an old number never looks current. Under a day the age is in hours, then in days, such as "4% 3d".</li><li>The bar for an old reading stays hollow, and the account's submenu still says when the number was read.</li><li>The claude-profiles usage command shows the same age.</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.4.5/SupaConductor.zip" sparkle:edSignature="l+XAp80J/FOIY2+sshAI0zGY77UJs5r8ylZE5TrMCD6R4tcJczCP4OjFHGb3IzFEYZTHh77PEinJ2v6rFWVNCg==" length="3900777" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.4.4</title>
       <pubDate>Tue, 03 Nov 2026 20:36:43 +0000</pubDate>
       <sparkle:version>404</sparkle:version>
