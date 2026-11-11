@@ -6,6 +6,15 @@
     <description>Updates for SupaConductor</description>
     <language>en</language>
     <item>
+      <title>Version 0.5.0</title>
+      <pubDate>Wed, 11 Nov 2026 07:19:59 +0000</pubDate>
+      <sparkle:version>500</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Each account's weekly usage and reset day now come from Claude Code's own usage report, the one its /usage command shows. About every 15 minutes the app asks for it, once per account, so the numbers and reset days stay current even when that account's Claude window is closed.</li><li>Each account needs 1 sign-in for this, in a folder only the app uses: in the account's submenu choose Copy sign-in command, run it in Terminal, finish the sign-in in a private browser window as that account, then choose Check now.</li><li>A row shows only its own account's numbers: if an account's folder is signed in to a different email than the row's, the row shows no reading instead of the other account's.</li><li>An old reading draws as a solid, slightly faded bar, with its age in grey after the number.</li></ul>]]></description>
+      <enclosure url="https://github.com/akaCT/claude-profiles-releases/releases/download/v0.5.0/SupaConductor.zip" sparkle:edSignature="OreBfhR00KmD2F4pKhZ3HrlRyVokwjoGmDC5Sk1LcM4VjKh0wLBvcKugZg5jdNggeh/WYO7KG+uevStR5FqJBA==" length="4757807" type="application/octet-stream" />
+    </item>
+<item>
       <title>Version 0.4.5</title>
       <pubDate>Tue, 03 Nov 2026 22:11:19 +0000</pubDate>
       <sparkle:version>405</sparkle:version>
